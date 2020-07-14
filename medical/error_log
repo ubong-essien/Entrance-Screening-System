@@ -1,0 +1,1 @@
+[27-Jul-2018 12:01:57 UTC] PHP Fatal error:  Out of memory (allocated 524288) (tried to allocate 610736 bytes) in /home/aksuedu/public_html/PUTME/functions/function.php on line 132

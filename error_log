@@ -1,0 +1,510 @@
+[22-Jul-2018 15:53:37 UTC] PHP Parse error:  syntax error, unexpected '$numofstud' (T_VARIABLE), expecting ',' or ';' in /home/aksuedu/public_html/PUTME/newcandsign.php on line 206
+[22-Jul-2018 15:53:42 UTC] PHP Parse error:  syntax error, unexpected '$numofstud' (T_VARIABLE), expecting ',' or ';' in /home/aksuedu/public_html/PUTME/newcandsign.php on line 206
+[22-Jul-2018 15:53:45 UTC] PHP Parse error:  syntax error, unexpected '$numofstud' (T_VARIABLE), expecting ',' or ';' in /home/aksuedu/public_html/PUTME/newcandsign.php on line 206
+[22-Jul-2018 15:53:46 UTC] PHP Parse error:  syntax error, unexpected '$numofstud' (T_VARIABLE), expecting ',' or ';' in /home/aksuedu/public_html/PUTME/newcandsign.php on line 206
+[22-Jul-2018 15:53:48 UTC] PHP Parse error:  syntax error, unexpected '$numofstud' (T_VARIABLE), expecting ',' or ';' in /home/aksuedu/public_html/PUTME/newcandsign.php on line 206
+[22-Jul-2018 15:53:51 UTC] PHP Parse error:  syntax error, unexpected '$numofstud' (T_VARIABLE), expecting ',' or ';' in /home/aksuedu/public_html/PUTME/newcandsign.php on line 206
+[22-Jul-2018 15:53:55 UTC] PHP Parse error:  syntax error, unexpected '$numofstud' (T_VARIABLE), expecting ',' or ';' in /home/aksuedu/public_html/PUTME/newcandsign.php on line 206
+[22-Jul-2018 15:53:59 UTC] PHP Parse error:  syntax error, unexpected '$numofstud' (T_VARIABLE), expecting ',' or ';' in /home/aksuedu/public_html/PUTME/newcandsign.php on line 206
+[22-Jul-2018 16:16:16 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[23-Jul-2018 14:30:55 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[23-Jul-2018 14:33:47 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[23-Jul-2018 14:56:49 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[23-Jul-2018 18:55:34 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[24-Jul-2018 06:40:06 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[24-Jul-2018 06:41:01 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[24-Jul-2018 06:49:18 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[24-Jul-2018 06:50:14 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[24-Jul-2018 06:53:16 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[24-Jul-2018 06:57:33 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[24-Jul-2018 07:09:39 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[24-Jul-2018 07:12:03 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[24-Jul-2018 09:13:45 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[24-Jul-2018 09:47:18 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[24-Jul-2018 17:00:51 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[26-Jul-2018 08:48:58 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[26-Jul-2018 08:49:24 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[26-Jul-2018 09:39:27 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[26-Jul-2018 09:41:34 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[26-Jul-2018 18:26:58 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[27-Jul-2018 08:11:28 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[27-Jul-2018 14:41:40 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[28-Jul-2018 10:26:00 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[28-Jul-2018 10:26:42 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[29-Jul-2018 13:31:49 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[31-Jul-2018 08:47:42 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[31-Jul-2018 09:07:56 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[01-Aug-2018 10:35:11 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[01-Aug-2018 10:35:48 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[01-Aug-2018 13:49:24 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[06-Aug-2018 12:23:00 UTC] PHP Fatal error:  Cannot use [] for reading in /home/aksuedu/public_html/PUTME/report.php on line 360
+[06-Aug-2018 12:23:02 UTC] PHP Fatal error:  Cannot use [] for reading in /home/aksuedu/public_html/PUTME/report.php on line 360
+[06-Aug-2018 12:23:04 UTC] PHP Fatal error:  Cannot use [] for reading in /home/aksuedu/public_html/PUTME/report.php on line 360
+[06-Aug-2018 12:23:05 UTC] PHP Fatal error:  Cannot use [] for reading in /home/aksuedu/public_html/PUTME/report.php on line 360
+[06-Aug-2018 12:23:07 UTC] PHP Fatal error:  Cannot use [] for reading in /home/aksuedu/public_html/PUTME/report.php on line 360
+[06-Aug-2018 12:23:08 UTC] PHP Fatal error:  Cannot use [] for reading in /home/aksuedu/public_html/PUTME/report.php on line 360
+[06-Aug-2018 12:23:10 UTC] PHP Fatal error:  Cannot use [] for reading in /home/aksuedu/public_html/PUTME/report.php on line 360
+[06-Aug-2018 12:23:11 UTC] PHP Fatal error:  Cannot use [] for reading in /home/aksuedu/public_html/PUTME/report.php on line 360
+[06-Aug-2018 12:23:19 UTC] PHP Fatal error:  Cannot use [] for reading in /home/aksuedu/public_html/PUTME/report.php on line 360
+[06-Aug-2018 12:23:22 UTC] PHP Fatal error:  Cannot use [] for reading in /home/aksuedu/public_html/PUTME/report.php on line 360
+[06-Aug-2018 12:23:24 UTC] PHP Fatal error:  Cannot use [] for reading in /home/aksuedu/public_html/PUTME/report.php on line 360
+[07-Aug-2018 20:44:58 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[08-Aug-2018 13:20:17 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[10-Aug-2018 14:10:18 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[12-Aug-2018 10:38:00 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[13-Aug-2018 09:35:43 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:43 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:43 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:43 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:43 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:43 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:43 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:43 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:43 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:43 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:43 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:43 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:43 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:43 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:43 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:43 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:43 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:43 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:43 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:43 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:43 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:43 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:43 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:43 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:43 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:44 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:44 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:44 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:44 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:44 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:44 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:44 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:44 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:44 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:44 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:44 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:44 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:44 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:44 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:44 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:44 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:44 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:44 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:44 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:44 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:44 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:44 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:44 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:44 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:44 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:44 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:44 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:44 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:44 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:44 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:44 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:44 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:44 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:44 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:44 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:45 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:45 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:45 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:45 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:45 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:45 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:45 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:45 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:45 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:45 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:45 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:45 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:45 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:45 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:45 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:45 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:45 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:45 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:45 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:45 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:46 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:47 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:47 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:47 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:47 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:47 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:47 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:47 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:47 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:47 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:47 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:47 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:47 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:47 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:47 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:47 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:47 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:47 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:47 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:47 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:47 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:48 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:48 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:48 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:48 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:48 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:48 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:48 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:48 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:48 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:48 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:48 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:48 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:48 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:48 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:48 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:48 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:48 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:48 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:48 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:48 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:48 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:48 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:48 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:48 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:48 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:49 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:49 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:49 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:49 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:49 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:50 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:50 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:50 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:50 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:50 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:50 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:50 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:50 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:50 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:50 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:50 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:50 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:50 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:50 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:50 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:50 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:50 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:50 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:50 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:50 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:50 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:50 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:50 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:50 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:50 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:51 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:51 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:51 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:51 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:51 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:51 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:51 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:51 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:51 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:51 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:51 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:51 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:51 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:51 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:51 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:51 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:51 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:51 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:51 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:51 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:51 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:51 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:51 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:51 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:51 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:51 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:51 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:51 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:51 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:51 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:51 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:51 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:51 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:51 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:51 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:51 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:51 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:51 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:51 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:51 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:52 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:52 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:52 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:52 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:53 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:53 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:53 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[13-Aug-2018 09:35:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 09:35:53 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[13-Aug-2018 12:13:24 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[13-Aug-2018 12:15:48 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[13-Aug-2018 12:16:08 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[13-Aug-2018 15:07:06 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[14-Aug-2018 08:00:23 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/aksuedu/public_html/PUTME/report_sorted.php on line 210
+[14-Aug-2018 10:34:35 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[14-Aug-2018 10:42:27 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[14-Aug-2018 13:02:02 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[14-Aug-2018 13:58:27 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[14-Aug-2018 13:59:25 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[16-Aug-2018 10:28:26 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[16-Aug-2018 10:33:08 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[16-Aug-2018 13:27:01 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[16-Aug-2018 14:36:08 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[16-Aug-2018 15:46:40 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[16-Aug-2018 15:46:40 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[16-Aug-2018 15:46:40 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[16-Aug-2018 15:46:40 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[16-Aug-2018 15:46:40 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[16-Aug-2018 16:35:40 UTC] PHP Parse error:  syntax error, unexpected '"</li>"' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ';' in /home/aksuedu/public_html/PUTME/report_sorted.php on line 324
+[16-Aug-2018 17:13:22 UTC] PHP Warning:  array_merge(): Argument #2 is not an array in /home/aksuedu/public_html/PUTME/functions/function.php on line 1068
+[16-Aug-2018 17:13:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[16-Aug-2018 17:13:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[16-Aug-2018 17:13:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[16-Aug-2018 17:13:22 UTC] PHP Warning:  in_array() expects parameter 2 to be array, null given in /home/aksuedu/public_html/PUTME/functions/function.php on line 1072
+[17-Aug-2018 04:29:27 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[17-Aug-2018 06:49:53 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[17-Aug-2018 07:21:21 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[17-Aug-2018 07:22:57 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[17-Aug-2018 09:12:46 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[17-Aug-2018 09:14:31 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[17-Aug-2018 22:06:54 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[18-Aug-2018 00:01:26 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[20-Aug-2018 07:53:39 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[20-Aug-2018 07:59:42 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[20-Aug-2018 08:00:42 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[20-Aug-2018 10:48:51 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[20-Aug-2018 10:49:11 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[20-Aug-2018 10:50:40 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[20-Aug-2018 13:16:38 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[20-Aug-2018 13:51:59 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[20-Aug-2018 13:54:34 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[20-Aug-2018 13:55:29 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[21-Aug-2018 13:56:50 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[21-Aug-2018 14:02:20 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[21-Aug-2018 14:05:01 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[21-Aug-2018 14:11:06 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[21-Aug-2018 14:13:01 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[21-Aug-2018 14:16:21 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[21-Aug-2018 15:00:33 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[21-Aug-2018 15:25:15 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[21-Aug-2018 15:30:48 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[21-Aug-2018 15:33:27 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[21-Aug-2018 18:33:18 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[21-Aug-2018 18:41:24 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[23-Aug-2018 10:48:55 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[23-Aug-2018 10:49:23 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[23-Aug-2018 11:00:32 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[23-Aug-2018 13:26:53 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[23-Aug-2018 14:45:14 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[24-Aug-2018 08:38:26 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[24-Aug-2018 10:44:21 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[24-Aug-2018 10:46:44 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[24-Aug-2018 11:14:29 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[24-Aug-2018 11:16:34 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[24-Aug-2018 12:05:24 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[24-Aug-2018 12:09:16 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[25-Aug-2018 12:11:48 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[25-Aug-2018 12:27:32 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[25-Aug-2018 12:44:03 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[25-Aug-2018 13:12:51 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[25-Aug-2018 13:34:40 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[25-Aug-2018 13:36:08 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[25-Aug-2018 13:37:04 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[25-Aug-2018 13:39:23 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[25-Aug-2018 13:44:07 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[25-Aug-2018 13:50:12 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[26-Aug-2018 04:33:48 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[26-Aug-2018 04:35:43 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[26-Aug-2018 04:38:01 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[26-Aug-2018 04:40:55 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[26-Aug-2018 04:52:44 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[26-Aug-2018 20:21:09 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[27-Aug-2018 08:56:36 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[27-Aug-2018 09:17:02 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[27-Aug-2018 10:03:14 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[27-Aug-2018 10:04:51 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[27-Aug-2018 10:10:13 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[27-Aug-2018 10:13:55 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[27-Aug-2018 11:18:07 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[27-Aug-2018 11:44:55 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[27-Aug-2018 11:52:04 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[27-Aug-2018 11:54:30 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[27-Aug-2018 12:19:53 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[27-Aug-2018 12:38:58 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[27-Aug-2018 12:45:14 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[27-Aug-2018 12:50:17 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[27-Aug-2018 12:51:49 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[27-Aug-2018 12:55:29 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[27-Aug-2018 13:00:43 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[27-Aug-2018 13:55:26 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[27-Aug-2018 15:00:22 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[28-Aug-2018 02:16:17 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[28-Aug-2018 09:20:24 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[28-Aug-2018 09:23:06 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[28-Aug-2018 10:04:23 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[28-Aug-2018 11:53:08 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[28-Aug-2018 12:28:50 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[28-Aug-2018 12:30:04 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[28-Aug-2018 12:32:38 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[28-Aug-2018 12:33:36 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[28-Aug-2018 12:41:56 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[28-Aug-2018 12:54:50 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[28-Aug-2018 13:04:44 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[28-Aug-2018 13:09:20 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[28-Aug-2018 13:28:10 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[28-Aug-2018 14:38:44 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[28-Aug-2018 14:40:56 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[28-Aug-2018 14:42:09 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[28-Aug-2018 20:14:13 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[28-Aug-2018 21:42:50 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[29-Aug-2018 07:15:53 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[29-Aug-2018 07:18:31 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[29-Aug-2018 07:20:24 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[29-Aug-2018 07:21:50 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[29-Aug-2018 10:12:31 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[29-Aug-2018 10:25:19 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[29-Aug-2018 10:35:39 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[29-Aug-2018 10:55:57 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[29-Aug-2018 11:50:52 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[29-Aug-2018 12:05:39 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[29-Aug-2018 12:05:59 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[29-Aug-2018 12:30:22 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[29-Aug-2018 12:42:16 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[29-Aug-2018 12:49:08 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[29-Aug-2018 12:50:42 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[29-Aug-2018 12:52:21 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[29-Aug-2018 13:14:31 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[29-Aug-2018 13:57:12 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[29-Aug-2018 14:00:08 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[29-Aug-2018 14:00:45 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[29-Aug-2018 14:01:07 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[29-Aug-2018 14:01:33 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[29-Aug-2018 14:03:43 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[29-Aug-2018 14:04:10 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[29-Aug-2018 14:07:07 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[29-Aug-2018 14:21:14 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[29-Aug-2018 14:57:31 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[29-Aug-2018 14:58:38 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[29-Aug-2018 15:32:19 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[29-Aug-2018 16:06:53 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[29-Aug-2018 16:09:54 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[29-Aug-2018 16:12:47 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[29-Aug-2018 16:14:42 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[29-Aug-2018 16:15:53 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[30-Aug-2018 10:00:45 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[30-Aug-2018 10:04:43 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[30-Aug-2018 10:16:07 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[30-Aug-2018 10:30:12 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[30-Aug-2018 11:11:02 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599
+[30-Aug-2018 12:50:14 UTC] PHP Warning:  Missing argument 4 for checkAdmissibleStatus(), called in /home/aksuedu/public_html/PUTME/profile.php on line 288 and defined in /home/aksuedu/public_html/PUTME/functions/function.php on line 599

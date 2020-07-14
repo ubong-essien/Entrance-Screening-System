@@ -1,0 +1,9 @@
+RewriteEngine On
+RewriteRule ^result-verification?$ resultverification.php
+RewriteRule ^system-setting?$ settings.php 
+RewriteRule ^screening-portal?$ index.php 
+RewriteRule ^screening-attendance?$ attendance.php 
+RewriteRule ^candidate-profile?$ profile.php 
+RewriteRule ^Admission-list?$ report.php 
+RewriteRule ^card-sales?$ card_sales.php 
+RewriteRule ^waec_settings?$ wac_set.php 
